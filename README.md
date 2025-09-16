@@ -15,6 +15,6 @@ Compared to the traditional **Waterfall** model, Agile:
 ### **Tonyzsp**
 
 
-### Comment by Keven Ni
+### Comment by BlackCloud-K
 I value Agile’s focus on continuous improvement. Short iterations quickly surface misalignments between requirements and product, reducing the cost of change.
 — Keven Ni
